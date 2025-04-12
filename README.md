@@ -165,6 +165,6 @@ npm start
 <h2 style="font-size: 36px;">📞 Contact</h2>
 <p style="font-size: 18px;">
   <strong>Arvind Goud</strong> <br>
-  <a href="https://github.com/Arvind7Goud">GitHub: Arvind7Goud</a> <br>
-  <a href="https://github.com/Arvind7Goud/Job-portal.git">Project Link: Job Portal Repository</a>
+  <a href="https://github.com/kunalcom/Job-Portal">GitHub: kunalcom</a> <br>
+  <a href="https://github.com/kunalcom/Job-Portal">Project Link: Job Portal Repository</a>
 </p>
