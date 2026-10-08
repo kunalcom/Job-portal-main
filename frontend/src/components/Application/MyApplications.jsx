@@ -173,9 +173,9 @@ const MyApplications = () => {
         </button>
       </div>
       <div style={textContainerStyle}>
-        <div style={nameStyle}>Arvind Goud</div>
+        <div style={nameStyle}>kunal</div>
         <div style={textStyle}>Mobile: 6267459567</div>
-        <div style={textStyle}>Email: aarajput555@gmail.com</div>
+        <div style={textStyle}>Email: kunal@gmail.com</div>
         <div style={textStyle}>Address: Delhi,India</div>
       </div>
     </div>
